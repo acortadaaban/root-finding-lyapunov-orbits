@@ -41,8 +41,13 @@ gcc -O2 -o rtbp_lyap_ref  rtbp_lyap_ref.c zeros.c rtbp.c -lm
 
 The algorithms follow the course handout by Josep Maria Mondelo.
 
+
+## Report
+The full write-up of the project, with the software manual, tests and results (in Catalan), is in `docs/Memoria_Zeros_i_Orbites_Lyapunov.pdf`.
+
+
 ## Authors
 
-Albert Cortada, together with a course partner.
+Albert Cortada, together with Oriol Antoja.
 
-<!-- TODO: add your partner's name and GitHub link here if they agree, then delete this comment. -->
+
